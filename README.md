@@ -3,7 +3,7 @@
 
 Please perform the following steps to run the project code: 
 
-1.	Clone the notebook and other data files from the provided GitHub Repository (https://github.com/vishalbeniwal/stance-classification-deeplearning)
+1.	Clone the notebook and other data files from the provided GitHub Repository (https://github.com/rafeedsultaan/twitter_stance_classification)
 
 2.	From the cloned repository, please upload the “FINAL-CODE.ipynb” file to Google colab environment. 
 
